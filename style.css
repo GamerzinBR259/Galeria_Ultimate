@@ -6,6 +6,7 @@ body {
 .img {
     width: 80%;
     height: 60%;
+    background-size: cover;
 }
 
 h1 {
@@ -17,4 +18,11 @@ h1 {
     font-family: 'REM', sans-serif ;
 }
 
-
+#caixa-flex {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: stretch;
+    justify-content: center;
+    align-content: space-around;
+}
