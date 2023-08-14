@@ -27,5 +27,5 @@ h1 {
 }
 
 .coluna1 {
-    flex-grow: -5px;
+    flex-shrink:-50px;
 }
