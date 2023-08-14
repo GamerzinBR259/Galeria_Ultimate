@@ -7,6 +7,8 @@ img {
     height: 60%;
     background-size: contain;
     border: solid 1px;
+    margin-top: 8px;
+    margin-bottom: 8px;
 }
 
 h1 {
