@@ -26,3 +26,7 @@ h1 {
     align-content: space-around;
 }
 
+.column {
+    display: flex;
+    flex-direction: column;
+}
