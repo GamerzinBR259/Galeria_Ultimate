@@ -1,11 +1,11 @@
-*{
+body {
     background-color: darkgrey;
     display: flex;
 }
 
-body {
-    background-color: darkgrey;
-    display: flex;
+img {
+    width: 80%;
+    height: 60%;
 }
 
 h1 {
@@ -27,6 +27,6 @@ h1 {
     flex-shrink:-50px;
 }
 
-.coluna1 {
+.column {
     flex-shrink:-50px;
 }
