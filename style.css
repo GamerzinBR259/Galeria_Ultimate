@@ -8,6 +8,7 @@ body {
     background-size: contain;
     border: solid 1px;
     margin: 5px;
+    padding: 5px;
 }
 
 h1 {
