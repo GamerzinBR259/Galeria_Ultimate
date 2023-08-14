@@ -7,6 +7,7 @@ body {
     background-color: darkgrey;
     display: flex;
     flex-direction: column;
+    flex-wrap: wrap;
 }
 
 h1 {
