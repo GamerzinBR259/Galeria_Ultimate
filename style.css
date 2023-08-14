@@ -23,4 +23,5 @@ h1 {
     flex-wrap: wrap;
     align-items: stretch;
     justify-content: center;
+    align-content: center;
 }
