@@ -21,7 +21,6 @@ h1 {
 #caixa-flex {
     display: flex;
     flex-wrap: wrap;
-    align-items: stretch;
     justify-content: space-around;
 }
 
