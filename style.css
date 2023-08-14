@@ -24,6 +24,7 @@ h1 {
     align-items: stretch;
     justify-content: center;
     align-content: space-around;
+    flex-shrink:-50px;
 }
 
 .coluna1 {
