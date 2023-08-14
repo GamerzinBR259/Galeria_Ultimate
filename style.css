@@ -18,7 +18,7 @@ h1 {
     font-family: 'REM', sans-serif ;
 }
 
-.caixa-flex {
+#caixa-flex {
     display: flex;
     flex-wrap: wrap;
     align-items: stretch;
